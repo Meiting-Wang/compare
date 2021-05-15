@@ -1,0 +1,2904 @@
+# For documentation, see https://www.sumatrapdfreader.org/settings/settings3.2.html
+
+MainWindowBackground = #80fff200
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = true
+TabWidth = 300
+
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = cn
+ShowToolbar = true
+ShowFavorites = false
+AssociatedExtensions = .pdf
+AssociateSilently = false
+CheckForUpdates = false
+RememberOpenedFiles = true
+InverseSearchCmdLine = D:\SoftwareInstall\texstudio\texstudio.exe %f -line %l
+EnableTeXEnhancements = true
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+WindowState = 1
+WindowPos = 836 2 1032 1047
+ShowToc = true
+SidebarDx = 203
+TocDy = 0
+ShowStartPage = true
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年下学期\高计3-徐吉良\Final_Exam_in_Advanced_Econometrics_III.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 836 2 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年下学期\高计3-徐吉良\Problem_sets_for_Advanced_Econometrics_III.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 836 2 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年下学期\高计3-徐吉良\Syllabus_EconometricsIII_2021.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 836 2 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年下学期\高宏3-谷佳家\presentation\Macro_III_Pre_gy.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 79
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 836 2 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年下学期\高计3-徐吉良\讲义\Treatment Evaluation-4月17日.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 150
+		PageNo = 10
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 397 40 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年下学期\劳动经济学研究\proposal\Proposal_for_Labor_Econ.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 112
+		PageNo = 6
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 397 40 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\家庭小背景 精装画册第一版\《家庭小背景》内容.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous facing
+		ScrollPos = -1 570
+		PageNo = 17
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 397 40 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年下学期\劳动经济学研究\课程大纲.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 397
+		PageNo = 11
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\家庭小背景 精装画册第一版\封面.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\家庭小背景 精装画册第一版\封底.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\家庭小背景 精装画册第一版\书脊.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\附件2-每月卫生计划表(1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\附件1-生活的小安排.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\附件8-同步学习计划.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\附件2-每月卫生计划表.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\附件3-生活日常护理.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\mmexport1617287033081(1).jpg
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年上学期\高计2-严子中\第一次作业\PS1_gj_wmt.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 95
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年下学期\高微3-马森\Homework1_for_Advan_Micro_III.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 428
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\附件21-《自卑与超越》阿德勒.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 92
+		PageNo = 37
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\img20210322_22405319.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Documents\WeChat Files\wxid_dg4rtt86ypd822\FileStorage\File\2021-04\礼包集合（台卡APP二维码）.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\img20210322_22392759.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\维也纳门店售卡操作指引-202103.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 272
+		PageNo = 16
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\生活节奏\附件1-2021生活节奏与规律1月.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\已掌握的英文小故事清单.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\谷菊霞常用文件勿删 (2021-02-27)\万达广场南海店.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\体重记录表.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\减肥记录表.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\日历\2021年6月.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年下学期\个人意向课程课表(2020-2021年下学期).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\日历\暨南大学2020-2021年校历.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Documents\WeChat Files\wxid_dg4rtt86ypd822\FileStorage\File\2021-03\品质红线、危机公关、疫情防控知识整理.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Documents\WeChat Files\wxid_dg4rtt86ypd822\FileStorage\File\2021-03\【课件】3.15备战与媒体危机公关强化(1)(1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 82
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\日历\2021年3月-6月.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\learn-biblatex\learn-biblatex.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 94
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\learn-biblatex\biblatex-zh-cn(更新时间：20210131).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 590
+		PageNo = 52
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 2 7 14 19 38 41 42 50 56 58 70 83 103 112 121 123 134 159
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\biblatex-gb7714-2015\biblatex-gb7714-2015.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 266
+		PageNo = 34
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1 6 7 8 14 36 37 41 44 48 51 53 60 70 74 77 96
+	]
+	[
+		FilePath = X:\exercise\LaTeX\biblatex-gbt7714-2015_and_gbt7714\biblatex-gbt7714-2015与gbt7714宏包使用.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 487
+		PageNo = 4
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 10
+	]
+	[
+		FilePath = X:\exercise\LaTeX\learn-biblatex\biblatex-cheatsheet.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 219 114
+		PageNo = 2
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 5
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\biblatex\biblatex.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 718
+		PageNo = 47
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 2 7 14 15 16 48 55 71 73 171 200 209 227 228 229 237 238 400 432
+	]
+	[
+		FilePath = X:\软件教程\LaTeX系列\LaTeX视频教程及资料-ChinaTex官网\讲师课件\02 LaTeX进阶\12 BiBLaTeX宏包使用与GBT7714-2015文献标准样式\视频配套beamer-biblatex.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\软件教程\LaTeX系列\LaTeX工作室直播资料\LaTeX直播之四-LaTeX参考文献自动化处理\main.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 218
+		PageNo = 18
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\hyperref\hyperref-doc.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 127
+		PageNo = 10
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\biblatex-nature\biblatex-nature.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\bibtex\base\btxdoc.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 236
+		PageNo = 13
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 171
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Downloads\biblatex-zh-cn.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 136
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 24 40 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 2 7
+	]
+	[
+		FilePath = X:\软件教程\LaTeX系列\LaTeX视频教程及资料-ChinaTex官网\讲师课件\02 LaTeX进阶\12 BiBLaTeX宏包使用与GBT7714-2015文献标准样式\说明文档\biblatex1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 24 40 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 2 8 39
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\bibtex\gbt7714\gbt7714.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 119
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\软件教程\LaTeX系列\LaTeX视频教程及资料-ChinaTex官网\讲师课件\02 LaTeX进阶\12 BiBLaTeX宏包使用与GBT7714-2015文献标准样式\GB7714-2015信息与文献_参考文献著录规则.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\日历\2021年3月.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 952 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年上学期\个人意向课程课表(2020-2021年上学期).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 952 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年上学期\个人意向课程课表.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 952 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\博士生培养方案\应用经济学博士研究生培养方案.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\暨南大学2020-2021年校历.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 952 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\biblatex-gbt7714-2015_and_gbt7714\main.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 51
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\软件教程\LaTeX系列\LaTeX视频教程及资料-ChinaTex官网\讲师课件\01 LaTeX入门\05 参考文献\ChinaTeX在线教程（入门篇）--参考文献.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 180
+		PageNo = 9
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\learn-biblatex2\main.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\cite\cite.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 208
+		PageNo = 4
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\natbib\natbib.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 595
+		PageNo = 10
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\学术研究\个人研究-毕设\论文撰写\最新收集文献\The Effects of Assortative Mating on Income Inequality A Decompositional Analysis.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\learn-biblatex2\alkire2017.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3 24 793 1053
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\与徐吉良老师的交流\国家自科重点项目《相对贫困的识别、监测与治理》\参考文献\外文\vu07-w01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3 24 793 1053
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\biblatex-gbt7714-2015与gbt7714宏包使用\biblatex-gbt7714-2015与gbt7714宏包使用.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 234
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\biblatex-gbt7714-2015与gbt7714宏包使用\main.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\与徐吉良老师的交流\国家自科重点项目《相对贫困的识别、监测与治理》\参考文献\外文\chakravarty2006.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3 24 793 1053
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\与徐吉良老师的交流\国家自科重点项目《相对贫困的识别、监测与治理》\参考文献\外文\alkire2017.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3 24 793 1053
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\与徐吉良老师的交流\国家自科重点项目《相对贫困的识别、监测与治理》\参考文献\外文\alkire2011.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3 24 793 1053
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Yinxiang Biji\Databases\Attachments\learn-listings.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 727
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 13 20 1032 1047
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 3
+	]
+	[
+		FilePath = C:\Users\wmt\Downloads\LaTeX直播之四-LaTeX参考文献自动化处理\source\4-biber.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3 10 793 1067
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Downloads\LaTeX直播之四-LaTeX参考文献自动化处理\source\3-7714.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3 10 793 1067
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Downloads\LaTeX直播之四-LaTeX参考文献自动化处理\source\2-bibtex.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3 10 793 1067
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Downloads\LaTeX直播之四-LaTeX参考文献自动化处理\source\1-thebibliography.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 3 10 793 1067
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\biblatex-gbt7714-2015与gbt7714宏包使用\test.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 143
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -4 3 2030 1080
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 10
+	]
+	[
+		FilePath = X:\学习资料\笔记\数学\矩阵导数\Derivatives_for_matrix.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 173 10 1374 1080
+		ShowToc = true
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 3 10
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\与徐吉良老师的交流\徐吉良-CV.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 6
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -4 3 2030 1080
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\与徐吉良老师的交流\HuSchennachShiu2020.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -4 3 2030 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -4 3 2030 1080
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\SoftwareInstall\ZhiyunTranslator\输入翻译模式.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\test.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\GreenSoftware\ZYtrans7.0.0.1\其他\示例文献.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 9
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\Educational assortative mating and economic inequality A comparative analysis of three Latin American countries.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\Educational assortative mating and economic inequality A comparative analysis of three Latin American countries.pdf.BK.PDF
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 142
+		PageNo = 20
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\The Effects of Assortative Mating on Income Inequality A Decompositional Analysis.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 149
+		PageNo = 7
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\AER-Has Consumption Inequality Mirrored Income Inequality？.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Documents\WeChat Files\wxid_1551695516822\FileStorage\File\2021-02\附件一：暨南大学学生个人健康信息表吴冰蓝.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Yinxiang Biji\Databases\Attachments\Derivatives_for_matrix.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 105
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 3 10
+	]
+	[
+		FilePath = X:\学习资料\笔记\LaTeX\article模板\document.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 797
+		PageNo = 1
+		Zoom = 75
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\数学\矩阵分析与应用_张贤达.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 31 666
+		PageNo = 296
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\暨南大学\2020-2021学年上学期\高计2-严子中\电子书\matrix cookbook.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1 5 14 76
+	]
+	[
+		FilePath = X:\学习资料\笔记\LaTeX\article文档类中定理类环境的重定义\main.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 814
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Yinxiang Biji\Databases\Attachments\beamer-template1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 122
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\amsmath\amsldoc.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 663
+		PageNo = 6
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\笔记\LaTeX\beamer简明模板1\beamer-template1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 249
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\tools\bm.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 3
+	]
+	[
+		FilePath = X:\学习资料\学术研究\个人研究-毕设\数据处理2010-2018\论文MDE估计说明文档\code_construct_readme.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 3
+	]
+	[
+		FilePath = X:\学习资料\笔记\LaTeX\article 文档类中定理类环境的重定义\main.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\笔记\LaTeX\article 文档类中定理类环境的重定义\main_file_for_Theorem_Series_Environments.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1080
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\学术研究\个人研究-毕设\论文撰写\经济学季刊版本\教育同质性婚配与消费保险能力-王美庭和徐小鹰.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 45 501
+		PageNo = 8
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1084
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 2 7 9
+	]
+	[
+		FilePath = C:\Users\wmt\Downloads\output.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -6 2 1056 1084
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\test2\test.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 709
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\ctex\ctex.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 91 411
+		PageNo = 10
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 3 13 17 49 76 78 107 129
+	]
+	[
+		FilePath = X:\学习资料\笔记\LaTeX\listings宏包的学习与使用\learn-listings.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 3
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\beamer\beameruserguide.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 167
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 95 96 98 157 166
+	]
+	[
+		FilePath = X:\学习资料\笔记\beamer简明模板2\beamer-template2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 217
+		PageNo = 8
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\笔记\beamer简明模板1\beamer-template1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 19
+		PageNo = 15
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\笔记\article模板\document.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 119
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Yinxiang Biji\Databases\Attachments\document.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 800
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\笔记\矩阵导数\Derivatives_for_matrix.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\数学\矩阵分析与应用习题解答.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 136
+		PageNo = 13
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 1
+	]
+	[
+		FilePath = X:\exercise\LaTeX\test\test.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 236
+		PageNo = 4
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\hyperref\manual.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\cleveref\cleveref.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 727
+		PageNo = 7
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\学术研究\个人研究-毕设\论文撰写\经济学季刊版本\经济学季刊_投稿体例(2020-04-15).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -90 210 1117 1087
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\learn-listings\learn-listings.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 372
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -5 2 1054 1083
+		ShowToc = false
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 2
+	]
+	[
+		FilePath = X:\学习资料\学术研究\邹神资料\邹神个人研究\结构估计新方法介绍.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 90
+		PageNo = 201
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 31 23 1071 1069
+		ShowToc = true
+		SidebarDx = 150
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\学术研究\邹神资料\邹神个人研究\为医疗而储蓄_slides.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 31 23 1071 1069
+		ShowToc = true
+		SidebarDx = 332
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\exercise\LaTeX\learn-xcolor\learn-xcolor.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 15 38 1071 1080
+		ShowToc = false
+		SidebarDx = 332
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\软件教程\LaTeX系列\LaTeX视频教程及资料-ChinaTex官网\讲师课件\01 LaTeX入门\03 表格入门\ChinaTeX在线教程（入门篇）--表格入门.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 263
+		PageNo = 27
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 15 38 1071 1080
+		ShowToc = false
+		SidebarDx = 332
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\listings\listings.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = 104 -1
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 15 38 1071 1080
+		ShowToc = true
+		SidebarDx = 332
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\texlive\2020\texmf-dist\doc\latex\tools\longtable.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 414
+		PageNo = 3
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -4 29 1039 1080
+		ShowToc = true
+		SidebarDx = 332
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\学术研究\文献阅读\消费不平等与收入不平等\经济研究\经济研究-主题含收入不平等-摘要含分解\农地制度_土地细碎化与农民收入不平等_许庆.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 658
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 49 29 834 1080
+		ShowToc = false
+		SidebarDx = 204
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = X:\学习资料\学术研究\文献阅读\消费不平等与收入不平等\经济研究\经济研究-主题含收入不平等-摘要含分解\解释中国农村区域间的收入不平等_一种基于回归方程的分解方法_万广华.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 276
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 49 29 834 1080
+		ShowToc = false
+		SidebarDx = 204
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Yinxiang Biji\Databases\Attachments\PGF-TikZ 绘图学习笔记-2013年10月22日更新.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 239
+		PageNo = 9
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 15 38 1071 1080
+		ShowToc = true
+		SidebarDx = 332
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Yinxiang Biji\Databases\Attachments\Tikz & PGF(3.1.5b)-2020年7月3日更新.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 559
+		PageNo = 49
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 15 38 1071 1080
+		ShowToc = true
+		SidebarDx = 332
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 13 28
+	]
+	[
+		FilePath = C:\Users\wmt\Downloads\learn-listings\learn-listings-1.png
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 15 38 1071 1080
+		ShowToc = false
+		SidebarDx = 332
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Downloads\影子银行_监管套利和宏观审慎政策_侯成琪.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 73
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -4 29 1039 1080
+		ShowToc = false
+		SidebarDx = 204
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\《家庭小背景》内容.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\《家庭小背景》改编版111.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\《家庭小背景》改编版2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\封面.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\《家庭小背景》改编版.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 824
+		PageNo = 3
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\书脊.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\封底.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\封面1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Yinxiang Biji\Databases\Attachments\暨南花园504租房合同.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 619
+		PageNo = 2
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\《家庭小背景》改编版1111.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\222.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\《家庭小背景》改编版12.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 258
+		PageNo = 26
+		Zoom = 300
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\wmt\Desktop\111.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 26
+		Zoom = 66.67
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 13 20 1032 1047
+		ShowToc = false
+		SidebarDx = 203
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 541
+
+# Settings after this line have not been recognized by the current version
+AnnotationDefaults [
+	HighlightColor = #ffff60
+]
+TreeFontSize = 0
